@@ -1,0 +1,11 @@
+int main()
+{	
+	int y;
+	y = 1 + 2;
+
+	real k;
+	k = 1.0;
+
+	booleano j;
+	j = k < y;
+}
