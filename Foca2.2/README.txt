@@ -47,3 +47,4 @@ x = 0
 x = x+1
 
 Nessa sprint, variável sem declaração de tipo tem que dar erro.
+
