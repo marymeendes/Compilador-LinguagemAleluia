@@ -1,7 +1,7 @@
 /*Esta foi  versão final do trabalho entregue dia 12/12/2018 
 Grupo: Mariana Mendes, Beatriz Silva e Bárbara Ayres*/
 
-/*Nesta versão falta: switch, além de dar free nas strings, funções e matrizes multidimensionais e inicialização de matrizes*/
+/*Nesta versão falta: switch, além de dar free nas strings (proveniente da Spring 2), funções e matrizes multidimensionais e inicialização de matrizes*/
 /*E temos matrizes, operadores unários e compostos e inicialização de variáveis e reporte de erros com informação da linha*/
 
 %{
