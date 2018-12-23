@@ -1,0 +1,114 @@
+Trabalho - Entrega I
+
+Especificação:
+Expressão
+Tipos
+Boolean
+Int
+Float
+Char
+Conversão
+Implícita
+Explícita
+Operadores
+Lógico
+Aritmético
+Relacional
+Variável
+Atribuição
+
+Data: 21/09/2018
+
+###############################
+
+Trabalho - Entrega II
+
+Especificação:
+Bloco
+Contexto
+Escopo global
+String
+Comandos de Entrada e Saída
+Comandos
+if
+if/else
+while
+do/while
+for
+switch
+Controle de Laços
+break
+continue
+
+Data: 08/11/2018
+
+################################
+
+Trabalho - Entrega III
+
+Especificação:
+Funções
+Matrizes
+Inicialização de Variáveis
+Inicialização de Matrizes
+Operadores Compostos
+Operadores Unários
+Detecção de Erros
+Extras
+
+Data: 12/12/2016
+
+###################################
+
+Trabalho Geral
+
+Especificações:
+
+Obrigatórios:
+
+Declaração Explícita
+Escopo estático
+Blocos
+Escopo global
+Tipo de dados primitivos (int, float, boolean, string e char)
+Inicialização de Variáveis
+Concatenação de String
+Matrizes
+Inicialização de Matrizes
+Expressões
+Expressões Condicionais
+Comandos de Entrada e Saída
+Comandos de Laço (for, while e do/while)
+Comandos de Decisão (if, if/else e switch)
+Operadores Aritméticos
+Operadores Relacionais (gerando boolean)
+Operadores Lógicos (gerando boolean)
+Operadores Compostos
+Operadores Unários
+Conversão de Tipos
+Mecanismos de Controle de Laços
+Detecção de Erros
+Subprograma (Função)
+
+
+Extras:
+
+Escopo dinâmico
+Subprograma (Procedimento)
+Ponteiros
+Referências
+Declaração Implícita
+Vinculação Dinâmica de Tipos
+Inferência de Tipos
+Nova operações (exponenciação, ...)
+Enumeração
+Subfaixa
+Matrizes Regulares
+Fatias
+Matrizes Associativas
+Uniões
+Foreach
+Controle de Laços (break all)
+Comandos Protegidos
+Procedimentos
+Passagens de Parâmetros utilizando nomes
